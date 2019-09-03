@@ -1,0 +1,153 @@
+Archive Project report for mynios2
+Tue Jan 28 10:13:38 2014
+Quartus II 32-bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Full Version
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Tue Jan 28 10:13:38 2014 ;
+; Revision Name          ; mynios2                               ;
+; Top-level Entity Name  ; my_top_system                         ;
+; Family                 ; Cyclone IV E                          ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/Users/mhouse1/Documents/Rover/FPGA_PROJECT_BASE_SYSTEM_V3/mynios2.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'mynios2.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/altera/13.0sp1/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 32-bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 298 megabytes
+    Info: Processing ended: Tue Jan 28 10:13:38 2014
+    Info: Elapsed time: 00:00:04
+    Info: Total CPU time (on all processors): 00:00:03
+
+
++----------------------------------------------------------------------------------+
+; Files Archived                                                                   ;
++----------------------------------------------------------------------------------+
+; File Name                                                                        ;
++----------------------------------------------------------------------------------+
+; ../My_Own_Components/ADC_CTRL.v                                                  ;
+; ../My_Own_Components/HE_counter.vhd                                              ;
+; ../My_Own_Components/mult_dim_ports.vhd                                          ;
+; ../My_Own_Components/mux_4bit.vhd                                                ;
+; ../My_Own_Components/mux_4bit_1.vhd                                              ;
+; ../My_Own_Components/pulse_width_measure.vhd                                     ;
+; ../My_Own_Components/pwm.vhd                                                     ;
+; ../My_Own_Components/pwm_1.vhd                                                   ;
+; ../My_Own_Components/SPIPLL.v                                                    ;
+; C:/Users/mhouse1/Documents/Rover/My_Own_Components/ADC_CTRL.v                    ;
+; C:/Users/mhouse1/Documents/Rover/My_Own_Components/HE_counter.vhd                ;
+; C:/Users/mhouse1/Documents/Rover/My_Own_Components/mult_dim_ports.vhd            ;
+; C:/Users/mhouse1/Documents/Rover/My_Own_Components/mux_4bit.vhd                  ;
+; C:/Users/mhouse1/Documents/Rover/My_Own_Components/mux_4bit_1.vhd                ;
+; C:/Users/mhouse1/Documents/Rover/My_Own_Components/pulse_width_measure.vhd       ;
+; C:/Users/mhouse1/Documents/Rover/My_Own_Components/pwm.vhd                       ;
+; C:/Users/mhouse1/Documents/Rover/My_Own_Components/pwm_1.vhd                     ;
+; C:/Users/mhouse1/Documents/Rover/My_Own_Components/reg16_avalon_interface_hw.tcl ;
+; C:/Users/mhouse1/Documents/Rover/My_Own_Components/SPIPLL.v                      ;
+; Counter.vhd                                                                      ;
+; cpu.sdc                                                                          ;
+; incremental_db/compiled_partitions/mynios2.db_info                               ;
+; my_top_system.vhd                                                                ;
+; mynios2.qpf                                                                      ;
+; mynios2.qsf                                                                      ;
+; mynios2/synthesis/../../mynios2.cmp                                              ;
+; mynios2/synthesis/../../mynios2.qsys                                             ;
+; mynios2/synthesis/../../mynios2.sopcinfo                                         ;
+; mynios2/synthesis/mynios2.qip                                                    ;
+; mynios2/synthesis/mynios2.v                                                      ;
+; mynios2/synthesis/submodules/altera_avalon_sc_fifo.v                             ;
+; mynios2/synthesis/submodules/altera_merlin_address_alignment.sv                  ;
+; mynios2/synthesis/submodules/altera_merlin_arbitrator.sv                         ;
+; mynios2/synthesis/submodules/altera_merlin_burst_adapter.sv                      ;
+; mynios2/synthesis/submodules/altera_merlin_burst_uncompressor.sv                 ;
+; mynios2/synthesis/submodules/altera_merlin_master_agent.sv                       ;
+; mynios2/synthesis/submodules/altera_merlin_master_translator.sv                  ;
+; mynios2/synthesis/submodules/altera_merlin_slave_agent.sv                        ;
+; mynios2/synthesis/submodules/altera_merlin_slave_translator.sv                   ;
+; mynios2/synthesis/submodules/altera_merlin_width_adapter.sv                      ;
+; mynios2/synthesis/submodules/altera_reset_controller.sdc                         ;
+; mynios2/synthesis/submodules/altera_reset_controller.v                           ;
+; mynios2/synthesis/submodules/altera_reset_synchronizer.v                         ;
+; mynios2/synthesis/submodules/interrupt_logic.v                                   ;
+; mynios2/synthesis/submodules/mynios2_addr_router.sv                              ;
+; mynios2/synthesis/submodules/mynios2_addr_router_001.sv                          ;
+; mynios2/synthesis/submodules/mynios2_cmd_xbar_demux.sv                           ;
+; mynios2/synthesis/submodules/mynios2_cmd_xbar_demux_001.sv                       ;
+; mynios2/synthesis/submodules/mynios2_cmd_xbar_mux.sv                             ;
+; mynios2/synthesis/submodules/mynios2_cpu.sdc                                     ;
+; mynios2/synthesis/submodules/mynios2_cpu.v                                       ;
+; mynios2/synthesis/submodules/mynios2_cpu_jtag_debug_module_sysclk.v              ;
+; mynios2/synthesis/submodules/mynios2_cpu_jtag_debug_module_tck.v                 ;
+; mynios2/synthesis/submodules/mynios2_cpu_jtag_debug_module_wrapper.v             ;
+; mynios2/synthesis/submodules/mynios2_cpu_oci_test_bench.v                        ;
+; mynios2/synthesis/submodules/mynios2_cpu_ociram_default_contents.mif             ;
+; mynios2/synthesis/submodules/mynios2_cpu_rf_ram_a.mif                            ;
+; mynios2/synthesis/submodules/mynios2_cpu_rf_ram_b.mif                            ;
+; mynios2/synthesis/submodules/mynios2_cpu_test_bench.v                            ;
+; mynios2/synthesis/submodules/mynios2_epcs_flash_controller.v                     ;
+; mynios2/synthesis/submodules/mynios2_epcs_flash_controller_boot_rom.hex          ;
+; mynios2/synthesis/submodules/mynios2_id_router.sv                                ;
+; mynios2/synthesis/submodules/mynios2_id_router_003.sv                            ;
+; mynios2/synthesis/submodules/mynios2_id_router_005.sv                            ;
+; mynios2/synthesis/submodules/mynios2_irq_mapper.sv                               ;
+; mynios2/synthesis/submodules/mynios2_jtag_uart.v                                 ;
+; mynios2/synthesis/submodules/mynios2_onchip_memory2.hex                          ;
+; mynios2/synthesis/submodules/mynios2_onchip_memory2.v                            ;
+; mynios2/synthesis/submodules/mynios2_pio_0.v                                     ;
+; mynios2/synthesis/submodules/mynios2_rsp_xbar_demux.sv                           ;
+; mynios2/synthesis/submodules/mynios2_rsp_xbar_demux_005.sv                       ;
+; mynios2/synthesis/submodules/mynios2_rsp_xbar_mux.sv                             ;
+; mynios2/synthesis/submodules/mynios2_rsp_xbar_mux_001.sv                         ;
+; mynios2/synthesis/submodules/mynios2_sdram_0.v                                   ;
+; mynios2/synthesis/submodules/mynios2_sys_clk_timer.v                             ;
+; mynios2/synthesis/submodules/mynios2_sysid_qsys_0.v                              ;
+; mynios2/synthesis/submodules/mynios2_uart.v                                      ;
+; mynios2/synthesis/submodules/mynios2_up_clock.v                                  ;
+; mynios2/synthesis/submodules/slave_template.v                                    ;
+; mynios2_assignment_defaults.qdf                                                  ;
+; sopc_add_qip_file.tcl                                                            ;
++----------------------------------------------------------------------------------+
+
+

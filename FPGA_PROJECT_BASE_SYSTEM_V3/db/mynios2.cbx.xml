@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="mynios2">
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_vic_0:vic_0|altera_vic_csr:vic_csr|altsyncram:Ram0_rtl_0" CBX_FILE_NAME="altsyncram_7k71.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|pwm:inst_pwmGen_steering|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_ogh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_cpu:cpu|mynios2_cpu_bht_module:mynios2_cpu_bht|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_rig1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_cpu:cpu|mynios2_cpu_dc_tag_module:mynios2_cpu_dc_tag|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_rag1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_cpu:cpu|mynios2_cpu_dc_victim_module:mynios2_cpu_dc_victim|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_r3d1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_cpu:cpu|mynios2_cpu_nios2_oci:the_mynios2_cpu_nios2_oci|mynios2_cpu_nios2_ocimem:the_mynios2_cpu_nios2_ocimem|mynios2_cpu_ociram_lpm_dram_bdp_component_module:mynios2_cpu_ociram_lpm_dram_bdp_component|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_vu72.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|pwm:inst_pwmGen_steering|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|lpm_add_sub:adder[1]" CBX_FILE_NAME="add_sub_ogh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_cpu:cpu|mynios2_cpu_mult_cell:the_mynios2_cpu_mult_cell|altmult_add:the_altmult_add_part_1" CBX_FILE_NAME="mult_add_mgr2.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_onchip_memory2:onchip_memory2|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_63c1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|pwm:inst_pwmGen_steering|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|mpar_add:sub_par_add|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_sgh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_cpu:cpu|lpm_add_sub:Add17" CBX_FILE_NAME="add_sub_qvi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_cpu:cpu|mynios2_cpu_ic_data_module:mynios2_cpu_ic_data|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_sjd1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_cpu:cpu|mynios2_cpu_ic_tag_module:mynios2_cpu_ic_tag|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_8vg1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_cpu:cpu|mynios2_cpu_mult_cell:the_mynios2_cpu_mult_cell|altmult_add:the_altmult_add_part_2" CBX_FILE_NAME="mult_add_ogr2.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_cpu:cpu|mynios2_cpu_register_bank_b_module:mynios2_cpu_register_bank_b|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_k4g1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_up_clock:up_clock|altpll:DE_Clock_Generator_System" CBX_FILE_NAME="altpll_6rb2.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|pwm:inst_pwmGen_Throttle|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|mpar_add:sub_par_add|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_sgh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_up_clock:up_clock|altpll:DE_Clock_Generator_Audio" CBX_FILE_NAME="altpll_vpb2.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|SPIPLL:inst_SPIPLL0|altpll:altpll_component" CBX_FILE_NAME="SPIPLL_altpll.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_cpu:cpu|mynios2_cpu_dc_data_module:mynios2_cpu_dc_data|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_2jf1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_cpu:cpu|mynios2_cpu_nios2_oci:the_mynios2_cpu_nios2_oci|mynios2_cpu_nios2_oci_im:the_mynios2_cpu_nios2_oci_im|mynios2_cpu_traceram_lpm_dram_bdp_component_module:mynios2_cpu_traceram_lpm_dram_bdp_component|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_0a02.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_cpu:cpu|mynios2_cpu_register_bank_a_module:mynios2_cpu_register_bank_a|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_h4g1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_jtag_uart:jtag_uart|mynios2_jtag_uart_scfifo_w:the_mynios2_jtag_uart_scfifo_w|scfifo:wfifo" CBX_FILE_NAME="scfifo_jr21.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|pwm:inst_pwmGen_Throttle|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_ogh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_epcs_flash_controller:epcs_flash_controller|altsyncram:the_boot_copier_rom" CBX_FILE_NAME="altsyncram_su51.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|mynios2:inst_qsys|mynios2_jtag_uart:jtag_uart|mynios2_jtag_uart_scfifo_r:the_mynios2_jtag_uart_scfifo_r|scfifo:rfifo" CBX_FILE_NAME="scfifo_jr21.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|my_top_system|pwm:inst_pwmGen_Throttle|lpm_mult:Mult0|multcore:mult_core|mpar_add:padder|lpm_add_sub:adder[1]" CBX_FILE_NAME="add_sub_ogh.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
